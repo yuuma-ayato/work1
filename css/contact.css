@@ -1,0 +1,40 @@
+.head_line {
+  margin-top: 50px;
+}
+.contact {
+  margin-bottom: 80px;
+}
+.contact tr{
+  height: 7rem;
+}
+.contact th{
+  text-align: right;
+  width: 150px;
+}
+.contact td{
+  padding-left: 1rem;
+}
+.icon {
+  background-color: red;
+  color: white;
+}
+.inputs{
+  width: 480px;
+}
+.textarea {
+  resize: none;
+}
+.btn-area{
+  text-align: center;
+}
+.button{
+  background: #47abbf;
+  border: none;
+  color: white;
+  font-size:25px;
+  font-weight:lighter;
+  padding: 10px 10px;
+}
+.button:hover {
+  opacity: 0.6;
+}
